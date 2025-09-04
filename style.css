@@ -1,0 +1,22 @@
+body {
+    background-color: darkslategray;
+
+}
+
+.Website h1 {
+    font-size: 50px;
+    color: aquamarine;
+}
+
+.header li {
+    display: inline;
+    text-decoration: none;
+}
+li a {
+    text-decoration: none;
+    color: aliceblue;
+}
+.image img {
+    width: 500px;
+    height: 250px;
+}
